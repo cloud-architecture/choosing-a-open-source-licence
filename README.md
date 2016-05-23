@@ -5,9 +5,11 @@
 ### choosing the right licence for your open source project
 
 
-Let's face it, we love developing and open source but legal stuff is probably not one your happy tasks. Without providing any licence the code belongs to the person how wrote it without permissions of reuse. 
+Let's face it, we love developing and open source but legal stuff is probably not one your happy tasks. [Without providing any licence](http://choosealicense.com/no-license/) the code belongs to the person how wrote it without permissions of reuse. 
 
-To make your code available to the open source community you should take 5 minutes to choose the right licence for your projects. For a quick and simple start i recommend you this site <http://choosealicense.com/>.
+To make your code available to the open source community you should take 5 minutes to choose the right licence for your projects. For a quick and simple start i recommend you this site <http://choosealicense.com/>.  
+
+For myself i choose the [MIT Licence](https://opensource.org/licenses/mit-license.php) for my software projects and the [Creative Commons BY 4.0 Licence](http://creativecommons.org/licenses/by/4.0/) for documentations.
 
 
  
