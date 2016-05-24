@@ -1,6 +1,22 @@
-![logo](https://github.frapsoft.com/top/open-source-v1.png)  
+![Open Source Licences](https://github.frapsoft.com/top/open-source-legal.png)
 
-# ProjectName [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Open Source Licences [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+
+### choosing the right licence for your open source project
+
+
+Let's face it, we love developing and open source but legal stuff is probably not one your happy tasks. [Without providing any licence](http://choosealicense.com/no-license/) the code belongs to the person how wrote it without permissions of reuse. 
+
+To make your code available to the open source community you should take 5 minutes to choose the right licence for your projects. For a quick and simple start i recommend you this site <http://choosealicense.com/>.  
+
+ 
+### Links
+* <http://choosealicense.com/>
+* <https://opensource.org/licenses>
+* <https://creativecommons.org/choose/>
+* <http://spdx.org/licenses/>
+
+
 ### Contact / Social Media
 
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
@@ -13,7 +29,7 @@
 
 ### Development by 
 
-Developer: [Maik Ellerbrock](https://github.com/ellerbrock/)  
+Developer / Author: [Maik Ellerbrock](https://github.com/ellerbrock/)  
 Company: [Frapsoft](https://github.com/frapsoft/)
 
 
