@@ -1,7 +1,6 @@
 ![Open Source Licences](https://github.frapsoft.com/top/open-source-legal.png)
 
-# Open Source Licences [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
-
+# Open Source Licences [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v101)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 ### choosing the right licence for your open source project
 
 
@@ -9,8 +8,14 @@ Let's face it, we love developing and open source but legal stuff is probably no
 
 To make your code available to the open source community you should take 5 minutes to choose the right licence for your projects. For a quick and simple start i recommend you this site <http://choosealicense.com/>.  
 
- 
+To show your love for open source you can add this [badge](https://github.com/ellerbrock/open-source-badge/) to your project:  
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v101)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v101)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v101)](https://github.com/ellerbrock/open-source-badge/)  
+
+
+
 ### Links
+* <https://github.com/ellerbrock/open-source-badge/>
 * <http://choosealicense.com/>
 * <https://opensource.org/licenses>
 * <https://creativecommons.org/choose/>
