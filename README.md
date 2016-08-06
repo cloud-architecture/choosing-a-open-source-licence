@@ -1,10 +1,11 @@
 ![Open Source Licences](https://github.frapsoft.com/top/open-source-legal.png)
 
-# Open Source Licences [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Open Source Licences [![Build Status](https://travis-ci.org/ellerbrock/choosing-a-open-source-licence.svg?branch=master)](https://travis-ci.org/ellerbrock/choosing-a-open-source-licence) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+
 ### choosing the right licence for your open source project
 
 
-Let's face it, we love developing and open source but legal stuff is probably not one your happy tasks. [Without providing any licence](http://choosealicense.com/no-license/) the code belongs to the person how wrote it without permissions of reuse. 
+Let's face it, we love developing and open source but legal stuff is probably not one your happy tasks. [Without providing any licence](http://choosealicense.com/no-license/) the code belongs to the person how wrote it without permissions of reuse.
 
 To make your code available to the open source community you should take 5 minutes to choose the right licence for your projects. For a quick and simple start i recommend you this site <http://choosealicense.com/>.  
 
@@ -32,13 +33,13 @@ To show your love for open source you can add this [badge](https://github.com/el
 [![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)
 [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
 
-### Development by 
+### Development by
 
 Developer / Author: [Maik Ellerbrock](https://github.com/ellerbrock/)  
 Company: [Frapsoft](https://github.com/frapsoft/)
 
 
-### License 
+### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
